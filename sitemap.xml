@@ -771,6 +771,7 @@
 	<video:thumbnail_loc>https://img.youtube.com/vi/GhlsafbFEdA/maxresdefault.jpg</video:thumbnail_loc>
 	<video:title>Piercing time</video:title>
 	<video:description>Eluba Ink Tattoo - Piercing</video:description>
+	<video:player_loc>https://www.youtube.com/watch?v=GhlsafbFEdA</video:player_loc>
 	<video:content_loc>https://www.youtube.com/watch?v=GhlsafbFEdA</video:content_loc>
 	<video:duration>56</video:duration>
   </video:video>
@@ -784,6 +785,7 @@
 	<video:thumbnail_loc>https://img.youtube.com/vi/zDnjDTOMsn8/maxresdefault.jpg</video:thumbnail_loc>
 	<video:title>Japanese tattoo</video:title>
 	<video:description>Eluba Ink Tattoo - Tatuaggio giapponese</video:description>
+	<video:player_loc>https://www.youtube.com/watch?v=zDnjDTOMsn8</video:player_loc>
 	<video:content_loc>https://www.youtube.com/watch?v=zDnjDTOMsn8</video:content_loc>
 	<video:duration>104</video:duration>
   </video:video>
@@ -797,6 +799,7 @@
 	<video:thumbnail_loc>https://img.youtube.com/vi/a4vTaAQBn98/maxresdefault.jpg</video:thumbnail_loc>
     <video:title>Permanent makeup eyeliner</video:title>
     <video:description>Eluba Ink Tattoo - Trucco permanente occhi</video:description>
+	<video:player_loc>https://www.youtube.com/watch?v=a4vTaAQBn98</video:player_loc>
     <video:content_loc>https://www.youtube.com/watch?v=a4vTaAQBn98</video:content_loc>
     <video:duration>12</video:duration>
   </video:video>
@@ -808,8 +811,9 @@
   <lastmod>2025-10-25T12:35:48+00:00</lastmod>
   <video:video>
 	<video:thumbnail_loc>https://img.youtube.com/vi/CbAMwpQkioU/maxresdefault.jpg</video:thumbnail_loc>
-	<video:title>Concept tattoo back</video:title>
+	<video:title>Concept tatto back</video:title>
 	<video:description>Eluba Ink Tattoo - Tatuaggio schiena</video:description>
+	<video:player_loc>https://www.youtube.com/watch?v=CbAMwpQkioU</video:player_loc>
 	<video:content_loc>https://www.youtube.com/watch?v=CbAMwpQkioU</video:content_loc>
 	<video:duration>89</video:duration>
   </video:video>
@@ -823,6 +827,7 @@
 	<video:thumbnail_loc>https://img.youtube.com/vi/IloWc2Osd8c/maxresdefault.jpg</video:thumbnail_loc>
 	<video:title>Concept tattoo arm</video:title>
 	<video:description>Eluba Ink Tattoo - Tatuaggio braccio</video:description>
+	<video:player_loc>https://www.youtube.com/watch?v=IloWc2Osd8c</video:player_loc>
 	<video:content_loc>https://www.youtube.com/watch?v=IloWc2Osd8c</video:content_loc>
 	<video:duration>30</video:duration>
   </video:video>
@@ -836,6 +841,7 @@
 	<video:thumbnail_loc>https://img.youtube.com/vi/-vagY1l6Hk8/maxresdefault.jpg</video:thumbnail_loc>
 	<video:title>Sketch tattoo arm</video:title>
 	<video:description>Eluba Ink Tattoo - Tatuaggio braccio</video:description>
+	<video:player_loc>https://www.youtube.com/watch?v=-vagY1l6Hk8</video:player_loc>
 	<video:content_loc>https://www.youtube.com/watch?v=-vagY1l6Hk8</video:content_loc>
 	<video:duration>30</video:duration>
   </video:video>
@@ -849,6 +855,7 @@
 	<video:thumbnail_loc>https://img.youtube.com/vi/P6TsArMMd6g/maxresdefault.jpg</video:thumbnail_loc>
 	<video:title>Memorial tattoo</video:title>
 	<video:description>Eluba Ink Tattoo - Tatuaggio commemorativo</video:description>
+	<video:player_loc>https://www.youtube.com/watch?v=P6TsArMMd6g</video:player_loc>
 	<video:content_loc>https://www.youtube.com/watch?v=P6TsArMMd6g</video:content_loc>
 	<video:duration>14</video:duration>
   </video:video>
@@ -862,6 +869,7 @@
 	<video:thumbnail_loc>https://img.youtube.com/vi/5FNBx_cnRbE/maxresdefault.jpg</video:thumbnail_loc>
 	<video:title>Stitch Disney tattoo</video:title>
 	<video:description>Eluba Ink Tattoo - Tatuaggio Stitch Disney</video:description>
+	<video:player_loc>https://www.youtube.com/watch?v=5FNBx_cnRbE</video:player_loc>
 	<video:content_loc>https://www.youtube.com/watch?v=5FNBx_cnRbE</video:content_loc>
 	<video:duration>17</video:duration>
   </video:video>
@@ -875,6 +883,7 @@
 	<video:thumbnail_loc>https://img.youtube.com/vi/_XnD6BwZuSM/maxresdefault.jpg</video:thumbnail_loc>
 	<video:title>Stitch cartoon tattoo</video:title>
 	<video:description>Eluba Ink Tattoo - Tatuaggio cartoon Stitch Disney</video:description>
+	<video:player_loc>https://www.youtube.com/watch?v=_XnD6BwZuSM</video:player_loc>
 	<video:content_loc>https://www.youtube.com/watch?v=_XnD6BwZuSM</video:content_loc>
 	<video:duration>9</video:duration>
   </video:video>
